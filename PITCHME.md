@@ -169,7 +169,7 @@ Changes the path when clicked.
 
 ---
 
-# React-strap
+# Reactstrap
 [link](https://reactstrap.github.io/)
 ```bash
 npm install bootstrap@4.0.0-alpha.6 --save
