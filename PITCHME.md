@@ -155,14 +155,14 @@ Trust me, I did that.
 
 +++
 
-#Components
+# Components
 
-## Router
+### Router
 Put things in here and they get linked
 
-## Route path=
+### Route path=
 Tells the router what to render when the route matches `path`.
 Can be `exact`.
 
-## Link to=
+### Link to=
 Changes the path when clicked.
