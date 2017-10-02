@@ -173,7 +173,8 @@ Changes the path when clicked.
 [link](https://reactstrap.github.io/)
 ```bash
 npm install bootstrap@4.0.0-alpha.6 --save
-npm install --save reactstrap react-addons-transition-group react react-dom
+npm install --save reactstrap \
+  react-addons-transition-group react react-dom
 ```
 
 +++
