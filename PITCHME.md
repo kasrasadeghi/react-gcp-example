@@ -179,15 +179,15 @@ npm install --save reactstrap \
 
 +++
 
-- edit src/index.js
-```es6
+edit src/index.js
+```jsx
 import 'bootstrap/dist/css/bootstrap.css';
 ```
 
 +++
 
-- edit src/App.js
-```es6
-import { Button } from 'reactstrap';
+edit src/App.js
+```jsx
+import { Button ... } from 'reactstrap';
 ```
 
