@@ -4,12 +4,20 @@ Kasra Sadeghi
 ---
 
 ## What is React
-Make UI, but with functions
+Make UI, but with functions.
+
++++
+
+## What's great about React?
+
 Everything is easy, especially when it shouldn't be.
+
 Everything passed with Props and State.
 
 Protip: string interpolation is great.
 Used with backticks and braces.
+
++++ 
 
 Protip#2: styles are a dictionary. 
 
